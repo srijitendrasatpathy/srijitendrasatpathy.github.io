@@ -1,2 +1,3 @@
 name: Sri Jitendra Satpathy
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
